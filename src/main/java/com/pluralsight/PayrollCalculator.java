@@ -79,7 +79,7 @@ public class PayrollCalculator {
                 payRate = Double.parseDouble(employeeData[3]);
 
 
-                //print out the employee data
+                //print out the employee data for debugging purposes
                 //System.out.println(Arrays.toString(employeeData));
 
                 //create an employee from the employee class pass the data to the constructor
